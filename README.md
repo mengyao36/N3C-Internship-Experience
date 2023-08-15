@@ -14,3 +14,9 @@ Analyst
 
 ## Project/Query Description
 Examine the association between between acute COVID-19 illness and progression of pre-existing chronic kidney disease (CKD), comparing COVID positive and negative adults
+
+## Analysis Tool
+Enclave platform using Python, PySpark, and SQL
+
+## Analysis Method
+Survival Analysis (Kaplan-Meier Curve)
